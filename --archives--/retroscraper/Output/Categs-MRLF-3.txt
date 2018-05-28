@@ -1,0 +1,315 @@
+
+Action
+Action / Adventure
+Action / Platform
+Action / Racing / Shooter
+Action / Role-Playing
+Action / Shooter
+Action/Beat-'Em-Up
+Action/Fighter
+Action/Fighting
+Action/General
+Action/Platform
+Action/Platformer
+Action/Puzzle
+Action/Shooter
+Adventure
+Adventure/Fantasy
+Adventure/Platform
+Adventure/Puzzle
+Ball & Paddle
+Ball & Paddle / Breakout
+Ball & Paddle / Breakout * Adulti *
+Ball & Paddle / Breakout * Mature *
+Ball & Paddle / Pong
+Baseball
+Baseball/Sports
+Basketball/Sports
+Beat-'Em-Up
+Beat’em Up
+Biking/Sports
+Board Games
+Board Games / Cards
+Board Games/Compilation
+Board Games/Puzzle
+Bowling/Sports
+Boxing/Sports
+Breakout
+Card Battle
+Casino
+Casino * Mature *
+Casino / Cards
+Casino / Cards * Mature *
+Casino / Lottery
+Casino / Multiplay
+Casino / Racing
+Casino / Reels
+Casino / Reels * Mature *
+Casino / Roulette
+Climbing
+Compilation
+Driving
+Driving / 1st Person
+Driving / Boat
+Driving / Jetski
+Driving / Plane
+Driving / Race
+Driving / Race (chase view)
+Driving / Race (chase view) Bike
+Driving / Race (chase view) Motorcycle
+Driving / Race 1st Person
+Driving / Race Bike
+Driving / Race Bike / Motorcycle
+Driving / Race Track
+Driving/General
+Driving/Motorcycle
+Driving/Platform
+Driving/Racing
+Educational
+Electromechanical / Coin pusher
+Electromechanical / Misc.
+Electromechanical / Pinball
+Electromechanical / Reels
+Electromechanical / Utilities
+Fight / Versus
+Fighter
+Fighter / 2.5D
+Fighter / 2D
+Fighter / 3D
+Fighter / Field
+Fighter / Misc.
+Fighter / Multiplay
+Fighter / Versus
+Fighter / Versus * Mature *
+Fighter / Versus Co-op
+Fighter / Vertical
+Fighting
+Fishing/Sports
+Flying
+Flying/Simulation
+Football/Skateboarding/Sports
+Football/Sports
+Gambling
+Game Show
+Golf/Sports
+Gun
+Hockey/Sports
+Horse Racing/Sports
+Ice Hockey/Sports
+Mahjong
+Mature
+Maze
+Maze * Mature *
+Maze / Digging
+Maze / Digging * Mature *
+Maze / Driving
+Maze / Fighter
+Maze / Outline
+Maze / Shooter Large
+Maze / Shooter Small
+Maze / Shooter Small * Mature *
+Maze / Surround
+Maze/Trackball
+Mini-Games
+Misc.
+Misc. * Mature *
+Miscellaneous
+Motorcycle
+Multimedia
+Multiplay
+Multiplay / Compilation
+Multiplay / Compilation * Mature *
+Multiplay / Mini-Games
+Multiplay / Mini-Games * Mature *
+Olympic
+Olympic/Sports
+Party
+Pinball
+Pinball * Mature *
+Pinball / Pachinko
+Pinball / Pachinko * Mature *
+Platform
+Platform / Adventure
+Platform / Fighter
+Platform / Fighter Scrolling
+Platform / Run Jump
+Platform / Run Jump * Mature *
+Platform / Run Jump Scrolling
+Platform / Shooter
+Platform / Shooter Scolling
+Platform / Shooter Scrolling
+Platform/Shooter Scrolling
+Pool and Dart
+Puzzle
+Puzzle / Cards
+Puzzle / Cards * Mature *
+Puzzle / Drop
+Puzzle / Drop * Mature *
+Puzzle / Match
+Puzzle / Match * Mature *
+Puzzle / Maze
+Puzzle / Misc.
+Puzzle / Misc. * Mature *
+Puzzle / Outline
+Puzzle / Outline * Mature *
+Puzzle / Sliding
+Puzzle / Sliding * Mature *
+Puzzle / Toss
+Puzzle / Toss * Mature *
+Puzzle/Miscellaneous
+Quiz
+Quiz / Chinese
+Quiz / English
+Quiz / English * Mature *
+Quiz / French
+Quiz / German
+Quiz / Italian
+Quiz / Japanese
+Quiz / Japanese * Mature *
+Quiz / Korean
+Quiz / Music English
+Quiz / Music Japanese
+Quiz / Spanish
+Race / Driving
+Racing
+Rhythm
+Rhythm / Dance
+Rhythm / Instruments
+Rhythm / Misc.
+Role-Playing
+Role-Playing / Sports
+Run and Gun
+Shoot-'Em-Up
+Shoot-'Em-Up / Vertical
+Shoot-'Em-Up/Shooter
+Shooter
+Shooter / 1st  Person
+Shooter / 1st Person
+Shooter / 3rd Person
+Shooter / Command
+Shooter / Driving
+Shooter / Driving (chase view)
+Shooter / Driving 1st Person
+Shooter / Driving Diagonal
+Shooter / Driving Horizontal
+Shooter / Driving Vertical
+Shooter / Field
+Shooter / Field * Mature *
+Shooter / Flying
+Shooter / Flying (chase view)
+Shooter / Flying 1st Person
+Shooter / Flying Diagonal
+Shooter / Flying Horizontal
+Shooter / Flying Horizontal * Mature *
+Shooter / Flying Vertical
+Shooter / Flying Vertical * Mature *
+Shooter / Gallery
+Shooter / Gallery * Mature *
+Shooter / Gun
+Shooter / Misc.
+Shooter / Misc. Horizontal
+Shooter / Misc. Vertical
+Shooter / Misc. Vertical / Driving
+Shooter / Versus
+Shooter/Flying
+Shoot’em Up
+Simulation
+Simulation / Flying
+Simulation / Tank
+Simulation/Flying
+Skateboarding
+Skateboarding/Sports
+Skating/Sports
+Snowboarding/Sports
+Soccer/Sports
+Sport
+Sports
+Sports / Armwrestling
+Sports / Baseball
+Sports / Basketball
+Sports / Bowling
+Sports / Boxing
+Sports / Bull Fighting
+Sports / Darts
+Sports / Dodgeball
+Sports / Fishing
+Sports / Football
+Sports / Futuristic
+Sports / Golf
+Sports / Handball
+Sports / Hang Gliding
+Sports / Hockey
+Sports / Horse Racing
+Sports / Horseshoes
+Sports / Misc.
+Sports / Multiplay
+Sports / Ping pong
+Sports / Pool
+Sports / Pool * Mature *
+Sports / Rugby Football
+Sports / Shuffleboard
+Sports / Skateboarding
+Sports / Skiing
+Sports / SkyDiving
+Sports / Soccer
+Sports / Sumo
+Sports / Swimming
+Sports / Tennis
+Sports / Track & Field
+Sports / Volleyball
+Sports / Wrestling
+Sports/Baseball
+Sports/Basketball
+Sports/Biking
+Sports/Bowling
+Sports/Boxing
+Sports/Cricket
+Sports/Driving
+Sports/Fishing
+Sports/Football
+Sports/Futuristic
+Sports/Game Show
+Sports/Golf
+Sports/Hockey
+Sports/Horse Racing
+Sports/Hunting
+Sports/Misc.
+Sports/Olympic
+Sports/Olympic/Track & Field
+Sports/Other
+Sports/Pool and Dart
+Sports/Roller
+Sports/Rugby
+Sports/Skateboarding
+Sports/Skating
+Sports/Skiing
+Sports/Snowboarding
+Sports/Soccer
+Sports/Surfing
+Sports/Tennis
+Sports/Track & Field
+Sports/Volleyball
+Sports/Wakeboarding
+Sports/Wrestling
+Strategy
+Tabletop
+Tabletop / Cards
+Tabletop / Go
+Tabletop / Hanafuda
+Tabletop / Hanafuda * Mature *
+Tabletop / Mahjong
+Tabletop / Mahjong * Mature *
+Tabletop / Misc.
+Tabletop / Misc. * Mature *
+Tabletop / Othello
+Tabletop / Othello * Mature *
+Tabletop / Renju
+Tabletop / Shougi
+Utilities / Misc.
+Utilities / Test
+Utilities / Update
+Utility
+Virtual Life
+Water
+unknown
+unknown&gt

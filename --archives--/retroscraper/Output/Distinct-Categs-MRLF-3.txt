@@ -1,0 +1,207 @@
+1st Person
+3D
+3rd Person
+Action
+Adventure
+Armwrestling
+Ball & Paddle
+Baseball
+Basketball
+Beat’em Up
+Board Games
+Boat
+Bowling
+Bowling
+Boxing
+Breakout
+Breakout
+Breakout * Adulti *
+Breakout * Mature *
+Bull Fighting
+Card Battle
+Cards
+Cards * Mature *
+Casino
+Casino * Mature *
+Chinese
+Climbing
+Coin pusher
+Command
+Compilation
+Compilation
+Compilation * Mature *
+Dance
+Darts
+Digging
+Digging * Mature *
+Dodgeball
+Driving
+Driving
+Driving (chase view)
+Driving 1st Person
+Driving Diagonal
+Driving Horizontal
+Driving Vertical
+Drop
+Drop * Mature *
+Educational
+English
+English * Mature *
+Field
+Field * Mature *
+Fighter
+Fighter
+Fighter Scrolling
+Fighting
+Fishing
+Flying
+Flying
+Flying (chase view)
+Flying 1st Person
+Flying Diagonal
+Flying Horizontal
+Flying Horizontal * Mature *
+Flying Vertical
+Flying Vertical * Mature *
+Football
+Football
+French
+Futuristic
+Gallery
+Gallery * Mature *
+Gambling
+Game Show
+German
+Go
+Golf
+Gun
+Gun
+Hanafuda
+Hanafuda * Mature *
+Handball
+Hang Gliding
+Hockey
+Horse Racing
+Horseshoes
+Instruments
+Italian
+Japanese
+Japanese * Mature *
+Jetski
+Korean
+Lottery
+Mahjong
+Mahjong
+Mahjong * Mature *
+Match
+Match * Mature *
+Mature
+Maze
+Maze
+Maze * Mature *
+Mini-Games
+Mini-Games
+Mini-Games * Mature *
+Misc.
+Misc.
+Misc. * Mature *
+Misc. * Mature *
+Misc. Horizontal
+Misc. Vertical
+Miscellaneous
+Motorcycle
+Motorcycle
+Multimedia
+Multiplay
+Multiplay
+Music English
+Music Japanese
+Olympic
+Othello
+Othello * Mature *
+Outline
+Outline * Mature *
+Pachinko
+Pachinko * Mature *
+Party
+Pinball
+Pinball
+Pinball * Mature *
+Ping pong
+Plane
+Platform
+Platform
+Pong
+Pool
+Pool * Mature *
+Pool and Dart
+Puzzle
+Quiz
+Race
+Race (chase view)
+Race (chase view) Bike
+Race (chase view) Motorcycle
+Race 1st Person
+Race Bike
+Race Track
+Racing
+Racing
+Reels
+Reels * Mature *
+Renju
+Rhythm
+Role-Playing
+Role-Playing
+Roulette
+Rugby Football
+Run and Gun
+Run Jump
+Run Jump * Mature *
+Run Jump Scrolling
+Shoot-'Em-Up
+Shooter
+Shooter
+Shooter Large
+Shooter Scolling
+Shooter Scrolling
+Shooter Small
+Shooter Small * Mature *
+Shoot’em Up
+Shougi
+Shuffleboard
+Simulation
+Skateboarding
+Skateboarding
+Skiing
+SkyDiving
+Sliding
+Sliding * Mature *
+Soccer
+Spanish
+Sport
+Sports
+Sports
+Strategy
+Sumo
+Surround
+Swimming
+Tabletop
+Tank
+Tennis
+Test
+Toss
+Toss * Mature *
+Track & Field
+unknown
+unknown&gt
+Update
+Utilities
+Utility
+Versus
+Versus * Mature *
+Versus Co-op
+Vertical
+Virtual Life
+Volleyball
+Water
+Wrestling

@@ -1,0 +1,740 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"global",
+				"GlobalHelper\tmodule"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"tmpm",
+				"tmpMas3\tstatement"
+			],
+			[
+				"actual",
+				"actualMasterGamename"
+			],
+			[
+				"txt",
+				"txtDisplay\tstatement"
+			],
+			[
+				"act",
+				"actualGamename\tstatement"
+			],
+			[
+				"exp",
+				"ExportGamesWithoutCateg\tfunction"
+			],
+			[
+				"categ",
+				"category\tfunction"
+			],
+			[
+				"actua",
+				"actualMasterGamename\tstatement"
+			],
+			[
+				"actu",
+				"actualMasterGamename\tstatement"
+			],
+			[
+				"tx",
+				"txtDisplay\tstatement"
+			],
+			[
+				"gam",
+				"gamesToSearch\tstatement"
+			],
+			[
+				"pre",
+				"prevGamename\tstatement"
+			],
+			[
+				"game",
+				"gamename\tfunction"
+			],
+			[
+				"master",
+				"masterGame\tstatement"
+			],
+			[
+				"rever",
+				"reverse"
+			],
+			[
+				"ema",
+				"emulator"
+			],
+			[
+				"em",
+				"emulators\tstatement"
+			],
+			[
+				"emu",
+				"emulator"
+			],
+			[
+				"Rom",
+				"RomlistHelper"
+			],
+			[
+				"gameshyp",
+				"gamesHyperpie\tstatement"
+			],
+			[
+				"games",
+				"gamesHyperlist\tstatement"
+			],
+			[
+				"file",
+				"filename\tfunction"
+			],
+			[
+				"hyperli",
+				"hyperlistPath\tparam"
+			],
+			[
+				"hyperlis",
+				"gamesHyperlist"
+			],
+			[
+				"cat",
+				"categs\tstatement"
+			],
+			[
+				"clon",
+				"cloneOf\tfunction"
+			],
+			[
+				"displa",
+				"displayType\tfunction"
+			],
+			[
+				"display",
+				"displayCount\tfunction"
+			],
+			[
+				"rom",
+				"Rom\tmodule"
+			],
+			[
+				"gameshyper",
+				"gamesHyperpie\tparam"
+			],
+			[
+				"no",
+				"noColumns\tstatement"
+			],
+			[
+				"butt",
+				"buttons\tfunction"
+			],
+			[
+				"al",
+				"AltRomname"
+			],
+			[
+				"Alt",
+				"AltTitle"
+			],
+			[
+				"Al",
+				"AltRomname"
+			],
+			[
+				"Di",
+				"DisplayType"
+			],
+			[
+				"Display",
+				"DisplayCount"
+			],
+			[
+				"hyperp",
+				"hyperpiePath\tparam"
+			],
+			[
+				"Loadh",
+				"LoadHyperlistFile"
+			],
+			[
+				"hyper",
+				"hyperlistFile"
+			],
+			[
+				"info",
+				"infoName\tstatement"
+			],
+			[
+				"inf",
+				"infoName\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "GlobalHelper.py",
+			"settings":
+			{
+				"buffer_size": 6895,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "1st Person\n3D\n3rd Person\nAction\nAdventure\nArmwrestling\nBall & Paddle\nBaseball\nBasketball\nBeat’em Up\nBoard Games\nBoat\nBowling\nBoxing\nBreakout\nBreakout * Adulti *\nBreakout * Mature *\nBull Fighting\nCard Battle\nCards\nCards * Mature *\nCasino\nCasino * Mature *\nChinese\nClimbing\nCoin pusher\nCommand\nCompilation\nCompilation * Mature *\nDance\nDarts\nDigging\nDigging * Mature *\nDodgeball\nDriving\nDriving (chase view)\nDriving 1st Person\nDriving Diagonal\nDriving Horizontal\nDriving Vertical\nDrop\nDrop * Mature *\nEducational\nEnglish\nEnglish * Mature *\nField\nField * Mature *\nFighter\nFighter Scrolling\nFighting\nFishing\nFlying\nFlying (chase view)\nFlying 1st Person\nFlying Diagonal\nFlying Horizontal\nFlying Horizontal * Mature *\nFlying Vertical\nFlying Vertical * Mature *\nFootball\nFrench\nFuturistic\nGallery\nGallery * Mature *\nGambling\nGame Show\nGerman\nGo\nGolf\nGun\nGun\nHanafuda\nHanafuda * Mature *\nHandball\nHang Gliding\nHockey\nHorse Racing\nHorseshoes\nInstruments\nItalian\nJapanese\nJapanese * Mature *\nJetski\nKorean\nLottery\nMahjong\nMahjong * Mature *\nMatch\nMatch * Mature *\nMature\nMaze\nMaze * Mature *\nMini-Games\nMini-Games * Mature *\nMisc.\nMisc.\nMisc. * Mature *\nMisc. * Mature *\nMisc. Horizontal\nMisc. Vertical\nMiscellaneous\nMotorcycle\nMotorcycle\nMultimedia\nMultiplay\nMultiplay\nMusic English\nMusic Japanese\nOlympic\nOthello\nOthello * Mature *\nOutline\nOutline * Mature *\nPachinko\nPachinko * Mature *\nParty\nPinball\nPinball\nPinball * Mature *\nPing pong\nPlane\nPlatform\nPlatform\nPong\nPool\nPool * Mature *\nPool and Dart\nPuzzle\nQuiz\nRace\nRace (chase view)\nRace (chase view) Bike\nRace (chase view) Motorcycle\nRace 1st Person\nRace Bike\nRace Track\nRacing\nRacing\nReels\nReels * Mature *\nRenju\nRhythm\nRole-Playing\nRole-Playing\nRoulette\nRugby Football\nRun and Gun\nRun Jump\nRun Jump * Mature *\nRun Jump Scrolling\nShoot-'Em-Up\nShooter\nShooter\nShooter Large\nShooter Scolling\nShooter Scrolling\nShooter Small\nShooter Small * Mature *\nShoot’em Up\nShougi\nShuffleboard\nSimulation\nSkateboarding\nSkateboarding\nSkiing\nSkyDiving\nSliding\nSliding * Mature *\nSoccer\nSpanish\nSport\nSports\nSports\nStrategy\nSumo\nSurround\nSwimming\nTabletop\nTank\nTennis\nTest\nToss\nToss * Mature *\nTrack & Field\nunknown\nunknown&gt\nUpdate\nUtilities\nUtility\nVersus\nVersus * Mature *\nVersus Co-op\nVertical\nVirtual Life\nVolleyball\nWater\nWrestling",
+			"file": "Output/Distinct-Categs-MRLF-3.txt",
+			"file_size": 2357,
+			"file_write_time": 131661211904140924,
+			"settings":
+			{
+				"buffer_size": 2268,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\nAction\nAction / Adventure\nAction / Platform\nAction / Racing / Shooter\nAction / Role-Playing\nAction / Shooter\nAction/Beat-'Em-Up\nAction/Fighter\nAction/Fighting\nAction/General\nAction/Platform\nAction/Platformer\nAction/Puzzle\nAction/Shooter\nAdventure\nAdventure/Fantasy\nAdventure/Platform\nAdventure/Puzzle\nBall & Paddle\nBall & Paddle / Breakout\nBall & Paddle / Breakout * Adulti *\nBall & Paddle / Breakout * Mature *\nBall & Paddle / Pong\nBaseball\nBaseball/Sports\nBasketball/Sports\nBeat-'Em-Up\nBeat’em Up\nBiking/Sports\nBoard Games\nBoard Games / Cards\nBoard Games/Compilation\nBoard Games/Puzzle\nBowling/Sports\nBoxing/Sports\nBreakout\nCard Battle\nCasino\nCasino * Mature *\nCasino / Cards\nCasino / Cards * Mature *\nCasino / Lottery\nCasino / Multiplay\nCasino / Racing\nCasino / Reels\nCasino / Reels * Mature *\nCasino / Roulette\nClimbing\nCompilation\nDriving\nDriving / 1st Person\nDriving / Boat\nDriving / Jetski\nDriving / Plane\nDriving / Race\nDriving / Race (chase view)\nDriving / Race (chase view) Motorcycle\nDriving / Race 1st Person\nDriving / Race Bike\nDriving / Race Motorcycle\nDriving / Race Track\nDriving/General\nDriving/Racing\nEducational\nElectromechanical / Coin pusher\nElectromechanical / Misc.\nElectromechanical / Pinball\nElectromechanical / Reels\nElectromechanical / Utilities\nFight / Versus\nFighter\nFighter / 3D\nFighter / Field\nFighter / Misc.\nFighter / Multiplay\nFighter / Versus\nFighter / Versus * Mature *\nFighter / Versus Co-op\nFighter / Vertical\nFighting\nFlying\nFlying/Simulation\nFootball/Skateboarding/Sports\nFootball/Sports\nGambling\nGame Show\nGolf/Sports\nGun\nHockey/Sports\nHorse Racing/Sports\nIce Hockey/Sports\nMahjong\nMature\nMaze\nMaze * Mature *\nMaze / Digging\nMaze / Digging * Mature *\nMaze / Driving\nMaze / Fighter\nMaze / Outline\nMaze / Shooter Large\nMaze / Shooter Small\nMaze / Shooter Small * Mature *\nMaze / Surround\nMaze/Trackball\nMini-Games\nMisc.\nMisc. * Mature *\nMiscellaneous\nMotorcycle\nMultimedia\nMultiplay\nMultiplay / Compilation\nMultiplay / Compilation * Mature *\nMultiplay / Mini-Games\nMultiplay / Mini-Games * Mature *\nOlympic\nOlympic/Sports\nParty\nPinball\nPinball * Mature *\nPinball / Pachinko\nPinball / Pachinko * Mature *\nPlatform\nPlatform / Adventure\nPlatform / Fighter\nPlatform / Fighter Scrolling\nPlatform / Run Jump\nPlatform / Run Jump * Mature *\nPlatform / Run Jump Scrolling\nPlatform / Shooter\nPlatform / Shooter Scolling\nPlatform / Shooter Scrolling\nPlatform/Shooter Scrolling\nPool and Dart\nPuzzle\nPuzzle / Cards\nPuzzle / Cards * Mature *\nPuzzle / Drop\nPuzzle / Drop * Mature *\nPuzzle / Match\nPuzzle / Match * Mature *\nPuzzle / Maze\nPuzzle / Misc.\nPuzzle / Misc. * Mature *\nPuzzle / Outline\nPuzzle / Outline * Mature *\nPuzzle / Sliding\nPuzzle / Sliding * Mature *\nPuzzle / Toss\nPuzzle / Toss * Mature *\nPuzzle/Miscellaneous\nQuiz\nQuiz / Chinese\nQuiz / English\nQuiz / English * Mature *\nQuiz / French\nQuiz / German\nQuiz / Italian\nQuiz / Japanese\nQuiz / Japanese * Mature *\nQuiz / Korean\nQuiz / Music English\nQuiz / Music Japanese\nQuiz / Spanish\nRace / Driving\nRacing\nRhythm\nRhythm / Dance\nRhythm / Instruments\nRhythm / Misc.\nRole-Playing\nRole-Playing / Sports\nRun and Gun\nShoot-'Em-Up\nShoot-'Em-Up / Vertical\nShoot-'Em-Up/Shooter\nShooter\nShooter / 1st  Person\nShooter / 1st Person\nShooter / 3rd Person\nShooter / Command\nShooter / Driving\nShooter / Driving (chase view)\nShooter / Driving 1st Person\nShooter / Driving Diagonal\nShooter / Driving Horizontal\nShooter / Driving Vertical\nShooter / Field\nShooter / Field * Mature *\nShooter / Flying\nShooter / Flying (chase view)\nShooter / Flying 1st Person\nShooter / Flying Diagonal\nShooter / Flying Horizontal\nShooter / Flying Horizontal * Mature *\nShooter / Flying Vertical\nShooter / Flying Vertical * Mature *\nShooter / Gallery\nShooter / Gallery * Mature *\nShooter / Gun\nShooter / Misc.\nShooter / Misc. Horizontal\nShooter / Misc. Vertical\nShooter / Misc. Vertical / Driving\nShooter / Versus\nShooter/Flying\nShoot’em Up\nSimulation\nSimulation / Flying\nSimulation / Tank\nSimulation/Flying\nSkateboarding\nSkateboarding/Sports\nSkating/Sports\nSnowboarding/Sports\nSoccer/Sports\nSport\nSports\nSports / Armwrestling\nSports / Baseball\nSports / Basketball\nSports / Bowling\nSports / Boxing\nSports / Bull Fighting\nSports / Darts\nSports / Dodgeball\nSports / Fishing\nSports / Football\nSports / Futuristic\nSports / Golf\nSports / Handball\nSports / Hang Gliding\nSports / Hockey\nSports / Horse Racing\nSports / Horseshoes\nSports / Misc.\nSports / Multiplay\nSports / Ping pong\nSports / Pool\nSports / Pool * Mature *\nSports / Rugby Football\nSports / Shuffleboard\nSports / Skateboarding\nSports / Skiing\nSports / SkyDiving\nSports / Soccer\nSports / Sumo\nSports / Swimming\nSports / Tennis\nSports / Track & Field\nSports / Volleyball\nSports / Wrestling\nSports/Baseball\nSports/Basketball\nSports/Biking\nSports/Bowling\nSports/Boxing\nSports/Cricket\nSports/Driving\nSports/Fishing\nSports/Football\nSports/Futuristic\nSports/Game Show\nSports/Golf\nSports/Hockey\nSports/Horse Racing\nSports/Hunting\nSports/Misc.\nSports/Olympic\nSports/Olympic/Track & Field\nSports/Other\nSports/Pool and Dart\nSports/Roller\nSports/Rugby\nSports/Skateboarding\nSports/Skating\nSports/Skiing\nSports/Snowboarding\nSports/Soccer\nSports/Surfing\nSports/Tennis\nSports/Track & Field\nSports/Volleyball\nSports/Wakeboarding\nSports/Wrestling\nStrategy\nTabletop\nTabletop / Cards\nTabletop / Go\nTabletop / Hanafuda\nTabletop / Hanafuda * Mature *\nTabletop / Mahjong\nTabletop / Mahjong * Mature *\nTabletop / Misc.\nTabletop / Misc. * Mature *\nTabletop / Othello\nTabletop / Othello * Mature *\nTabletop / Renju\nTabletop / Shougi\nUtilities / Misc.\nUtilities / Test\nUtilities / Update\nUtility\nVirtual Life\nWater\nunknown\nunknown&gt\n",
+			"file": "Output/Categs-MRLF-3.txt",
+			"file_size": 5735,
+			"file_write_time": 131661048859686223,
+			"settings":
+			{
+				"buffer_size": 5612,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "console.py",
+			"settings":
+			{
+				"buffer_size": 3351,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Driving / Race Motorcycle\n",
+			"settings":
+			{
+				"buffer_size": 26,
+				"line_ending": "Unix",
+				"name": "Driving / Race Motorcycle"
+			}
+		},
+		{
+			"file": "console4.py",
+			"settings":
+			{
+				"buffer_size": 1189,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "err",
+		"selected_items":
+		[
+			[
+				"err",
+				"Anaconda: Show error list"
+			],
+			[
+				"erro",
+				"Anaconda: Show error list"
+			],
+			[
+				"er",
+				"Anaconda: Show error list"
+			],
+			[
+				"error",
+				"Anaconda: Show error list"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 479.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"cls",
+			"clear()",
+			"clear",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"test.py",
+			"exit()",
+			"python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/akerbage/Workspace/Projects/RetroGaming/retroscraper"
+	],
+	"file_history":
+	[
+		"/home/akerbage/Workspace/Projects/RetroGaming/retroscraper/Output/Distinct-Categs-MRLF-3.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/retroscraper/Output/Categs-MRLF-3.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/GlobalHelper.py",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/console.py",
+		"/home/akerbage/Workspace/Projects/RetroGaming/retroscraper/Output/NewMasterRomlist3.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/retroscraper/wget-log",
+		"/home/akerbage/Workspace/Projects/RetroGaming/retroscraper/wget-log.1",
+		"/home/akerbage/Workspace/Projects/RetroGaming/retroscraper/Output/NewMasterRomlist2.txt.csv",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/Models/Rom.py",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/Output/MasterRomList.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/RomsWithoutCategHelper.py",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/RomlistHelper.py",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/Output-tmp/_stillKO.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/Output-tmp/RomsWithoutCateg - V4.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/Output-tmp/RomsWithoutCateg - V3.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/Output-tmp/stillKO.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/tmp2.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/stillKO.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/tmp.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/MasterRomlistHelper.py",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/EmulatorsConcernedByRomsWithoutCateg.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/MasterRomList.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/RomsWithoutCateg.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/RomsWithoutEmu.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/RomsWithourCateg.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/Hyperlist/Microsoft MS-DOS.xml",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/Model/emulators/Sega Master System.cfg",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/Hyperpie/Sega Mark III.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/Model/emulators/Sega Mark III.cfg",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/Hyperpie/Microsoft MS-DOS.txt",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/Config/HyperList-Hyperpie_Association.csv",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/Config/RomlistHelper.cfg",
+		"/home/akerbage/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/akerbage/Workspace/Projects/Python/data.xml",
+		"/home/akerbage/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+		"/home/akerbage/Downloads/TR  probleme site.msg"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"chase view",
+			"3D",
+			"2.5D",
+			"Wrestling",
+			"Sports /",
+			"pacman",
+			"Maze /",
+			"Shooter /",
+			"bomberman",
+			"F1",
+			" moto ",
+			"moto ",
+			"Motorcycle",
+			"platform / ",
+			"Breakout",
+			"Platform / ",
+			"Plateform / ",
+			"Alex Kidd BMX Trial",
+			"(\" (\")",
+			"1000 Miglia Great 1000 Miles Rally",
+			"2 games in 1 - spongebob",
+			"2 game in 1",
+			"1944ad",
+			"12in1",
+			"1944j",
+			"1944",
+			"2 in ",
+			"print(",
+			"sys.stdout",
+			"NBA",
+			"Cadillacs and Dinosaurs Turbo",
+			")\n",
+			".xm;",
+			"fichier.write(txt)",
+			"###############################################",
+			"Adding :",
+			"games",
+			"crc",
+			"buttons",
+			"extra",
+			"altTitle",
+			"altRomName",
+			"category",
+			"DisplayType",
+			"category",
+			"year",
+			"cloneOf",
+			"emulator"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			";",
+			"rating",
+			"crc",
+			"buttons",
+			"extra",
+			"altTitle",
+			"altRomName",
+			"displayType",
+			"DisplayType",
+			"DisplayCount",
+			"status",
+			"control",
+			"rotation",
+			"players",
+			"category",
+			"manufacturer",
+			"year",
+			"cloneOf"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/akerbage/Workspace/Projects/RetroGaming/retroscraper"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "GlobalHelper.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5266,
+								5266
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Output/Distinct-Categs-MRLF-3.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1384,
+								1384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Output/Categs-MRLF-3.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3468,
+								3468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2345.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "console.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Driving / Race Motorcycle",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "console4.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								951,
+								951
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workspace/Projects/RetroGaming/Python/1-RomlistHelper/RomlistHelper.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
