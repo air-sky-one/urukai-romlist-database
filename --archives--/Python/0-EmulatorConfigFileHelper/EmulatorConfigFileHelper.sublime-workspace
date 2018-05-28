@@ -1,0 +1,306 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Get",
+				"Get_Extensions\tfunction"
+			],
+			[
+				"exte",
+				"extensionsList\tstatement"
+			],
+			[
+				"emul",
+				"emulatorCfg\tstatement"
+			],
+			[
+				"emula",
+				"emulatorCfgFile\tstatement"
+			],
+			[
+				"em",
+				"emulatorCfgPath"
+			],
+			[
+				"info",
+				"infoName\tstatement"
+			],
+			[
+				"inf",
+				"infoName\tstatement"
+			],
+			[
+				"game",
+				"gameInfos\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "EmulatorConfigFileHelper.py",
+			"settings":
+			{
+				"buffer_size": 646,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "#!/usr/bin/python3.6\n# -*-coding:Utf-8 -*\n\n# ##################################################################################################\n# Emulator Config File Helper\n# By Urukai\n# Copyright 2018\n# Licence GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007\n# ##################################################################################################\n\ndef Get_Extensions(emulatorCfgPath):\n    emulatorCfgFile = open(emulatorCfgPath, \"r\")\n    emulatorCfg = str(emulatorCfgFile.read())\n    emulatorCfgFile.close()\n\n    # Get roms allowed extensions into Array\n\n    extensionsBegin = emulatorCfg.find(\"romext\")\n    extensionsEnd = emulatorCfg.find(\"system\")\n    extensionsList = emulatorCfg[extensionsBegin:extensionsEnd]\n    extensionsList = extensionsList[extensionsList.find(\".\"):]\n\n    extensions = extensionsList.split(\";\")\n\n    return extensions\n\n\n# #Name\n# Title\n# Emulator\n# CloneOf\n# Year\n# Manufacturer\n# Category\n# Players\n# Rotation\n# Control\n# Status\n# DisplayCount\n# DisplayType\n# AltRomname\n# AltTitle\n# Extra\n# Buttons\n",
+			"file": "Helpers/ExtensionsHelper.py",
+			"file_size": 864,
+			"file_write_time": 131650829500480891,
+			"settings":
+			{
+				"buffer_size": 1047,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+			"test.py",
+			"exit()",
+			"python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/0-EmulatorConfigFileHelper",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/0-EmulatorConfigFileHelper/Helpers"
+	],
+	"file_history":
+	[
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/0-EmulatorConfigFileHelper/Config/config.ini",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/0-EmulatorConfigFileHelper/Config/Emulators/Super Nintendo Entertainment System.cfg",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/0-EmulatorConfigFileHelper/Helpers/ExtensionsHelper.py",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/0-EmulatorConfigFileHelper/EmulatorConfigFileHelper.py",
+		"/home/akerbage/Workspace/Projects/RetroGaming/Python/0-EmulatorConfigFileHelper/tod.py",
+		"/home/akerbage/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/akerbage/Workspace/Projects/Python/data.xml",
+		"/home/akerbage/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+		"/home/akerbage/Downloads/TR  probleme site.msg"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/akerbage/Workspace/Projects/RetroGaming/Python/0-EmulatorConfigFileHelper"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "EmulatorConfigFileHelper.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								618,
+								618
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Helpers/ExtensionsHelper.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								797,
+								797
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 114.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
