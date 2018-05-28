@@ -15,71 +15,71 @@ urukai-romlist-database
 
 Idée souhaitée au 28/05/18 :
 
-1. Main Display
+a. Main Display
 	No filters
 	Entrées :
-		1. Franchises
+		a. Franchises
 			Filters par Favorites, All, Année (l'année est peut-etre un genre ;) )
 			Entrées :
-				1. Sonic
+				a. Sonic
 					Filters par Favorites, All, Genre, Console, Année
 					Entrées :
-						1. Sonic 1
+						a. Sonic 1
 							Filtrer par Favorites, All, Region, Console
 							Entrées : tous les Sonic 1
-						2. Sonic 2
+						b. Sonic 2
 							Filtrer par Favorites, All, Region, Console
 							Entrées : tous les Sonic 2
-						3. Sonic 3
+						c. Sonic 3
 							Filtrer par Favorites, All, Region, Console
 							Entrées : tous les Sonic 3
-				2. Super Mario
+				b. Super Mario
 					Filters par Favorites, All, Genre, Console, Année
 					Entrées :
-						1. Super Mario Bros
+						a. Super Mario Bros
 							Filtrer par Favorites, All, Region, Console
 							Entrées : tous les Super Mario Bros
-						2. Dr. Mario
+						b. Dr. Mario
 							Filtrer par Favorites, All, Region, Console
 							Entrées : tous les Dr. Mario
-				3. Axelay
+				c. Axelay
 					No Filter
 					Direct Game
-				4. Final Fantasy
+				d. Final Fantasy
 					Filters par Favorites, All, Genre, Console, Année
 					Entrées : 
-						1. ...
-						2. Final Fantasy VIII
+						a. ...
+						b. Final Fantasy VIII
 							Filter All, Region
 							Entrées : tous les Final Fantasy VIII
-						3. ...
-				5. Day of the Tentacle
+						c. ...
+				e. Day of the Tentacle
 					Filters par All, Langue
 					Entrées : tous les Day of the Tentacle
-		2. Genres
+		b. Genres
 			Filters par All, Categs principales ? ATTENTION SERA DETERMINE EN FONCTION DE L'ARBO DES GENRES
 			Entrées :
-				1. SHMUPS
+				a. SHMUPS
 					Filters par Favorites, All, Console, Année
 					Entrées :
 						Liste des Franchises
-				2. Run 'N Gun
+				b. Run 'N Gun
 					Filters par Favorites, All, Console, Année
 					Entrées :
 						Liste des Franchises
-				3. Fight
+				c. Fight
 					Filters par Favorites, All, Console, Année
 					Entrées :
 						Liste des Franchises
-				4. Basket
+				d. Basket
 					Filters par Favorites, All, Console, Année
 					Entrées :
 						Liste des Franchises
-				5. Soccer
+				e. Soccer
 					Filters par Favorites, All, Console, Année
 					Entrées :
 						Liste des Franchises
-		3. Systèmes
+		c. Systèmes
 			No Filters
 			1. Arcades
 				Filters par All, Favorites, Année
