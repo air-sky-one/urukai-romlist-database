@@ -1,8 +1,6 @@
 #!/usr/bin/python3.6
 # -*-coding:Utf-8 -*
 
-import sys
-
 path = "data/Wikipedia - Video Games Franchise List.txt"
 file = open(path, "r")
 fileContent = str(file.read())
@@ -15,7 +13,7 @@ i = 0
 for l in lines:
     franchise = ""
     if not (l[0:1] == "#" and i == 0):
-        check = False
+        check = 0
 
         check = l.find("[")
 
@@ -24,4 +22,4 @@ for l in lines:
         else:
             franchise = l
     print(franchise)
-    i+=1
+    i += 1
