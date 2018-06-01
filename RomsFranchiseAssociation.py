@@ -44,6 +44,10 @@ for l in lines:
         query = QueryParser("Name", ix.schema).parse(l)
         results = searcher.search(query)
 
+        if len(results) > 0 :
+            print("Franchise : " + l + " | Game : " + str(results[0]))
+
+'''
         # Résultats
         found = results.scored_length()
         if results.has_exact_length():
@@ -57,4 +61,4 @@ for l in lines:
             for r in results:
                 print(r)
 
-        input("Press Enter to continue...")
+'''
