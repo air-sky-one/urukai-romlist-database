@@ -108,7 +108,7 @@ def LoadRomListFile(path):
                             g.buttons = v
 
                     iCol += 1
-                results.append(g)
+            results.append(g)
         i += 1
     results.sort(key=lambda x: x.gamename, reverse = False)
     return results

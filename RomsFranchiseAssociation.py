@@ -71,7 +71,6 @@ input("Please kill me ...")'''
 
 for l in lines:
     with ix.searcher() as searcher:
-        print(l)
         query = QueryParser("Name", ix.schema).parse(l)
         results = searcher.search(query, limit=None)
 
@@ -79,7 +78,10 @@ for l in lines:
             formattedHits = FormatHitResults(results)
             r = GetDistinct(formattedHits)
             for e in r:
-                print(e)
-            input("Wait ...")
+                #print(e)
+                print(e + ";" + l)
+        else:
+            print(";" + l)
+            #input("Wait ...")
             # à ce stade on récupère la liste de jeux distincts par franchise
             # reste à trouver le format de sauvergarde et sauvegarder
